@@ -1,0 +1,20 @@
+{
+  "name": "vendor_name/crud.local",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Whisk",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "cloud-castle/http-router": "^1.1"
+  }
+}
