@@ -1,0 +1,43 @@
+# PHP Storm
+/.idea/
+
+# MAC OS
+*.DS_Store
+/**/*.DS_Store
+
+# npm
+node_modules
+
+# Files
+*.log
+*.html
+*.csv
+*.xml
+*.sql
+*.txt
+*.dt
+*.gz
+*.tar
+*.zip
+*.tar.gz
+*.bak
+*.old
+test*
+.htaccess
+.htaccess.restore
+.htsecure
+.htpasswd
+/web.config
+
+# Composer vendors
+/vendor/
+
+# Logs
+/log
+
+# Hidden directories
+.well-known/
+
+# Crazy
+sitemap.php
+robots.txt
